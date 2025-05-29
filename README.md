@@ -18,8 +18,8 @@ This is a Streamlit web application that predicts the **next word** in a given s
 
 ## 🛠️ Project Structure
 
-├── app.py # Streamlit app script
-├── next_word_lstm.h5 # Trained LSTM model file
-├── tokenizer.pickle # Tokenizer used during training
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+- app.py # Streamlit app script
+- next_word_lstm.h5 # Trained LSTM model file
+- tokenizer.pickle # Tokenizer used during training
+- requirements.txt # Python dependencies
+- README.md # Project documentation
