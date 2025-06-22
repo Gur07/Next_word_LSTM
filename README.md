@@ -63,7 +63,7 @@ This project implements a deep learning model to predict the next word in a give
 ```bash
 pip install streamlit tensorflow numpy pickle-mixin
 streamlit run app.py
-
+```
 
 ---
 
@@ -106,5 +106,5 @@ streamlit run app.py
 
 Open to ideas, improvements, and collaborations!
 
-```
+
 
