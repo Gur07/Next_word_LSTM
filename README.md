@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📝 Next Word Predictor using LSTM on Shakespeare's *Hamlet*
 
 This project implements a deep learning model to predict the next word in a given sequence of words, trained on the text from Shakespeare’s famous play **"Hamlet"**. The model uses **LSTM (Long Short-Term Memory)** networks, which are powerful for sequence modeling tasks like text prediction.
@@ -63,7 +63,7 @@ This project implements a deep learning model to predict the next word in a give
 ```bash
 pip install streamlit tensorflow numpy pickle-mixin
 streamlit run app.py
-````
+
 
 ---
 
